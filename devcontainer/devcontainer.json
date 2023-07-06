@@ -1,0 +1,11 @@
+{
+    "name": "My Dev Container",
+    "image": "your-docker-image:tag",
+    "extensions": [
+      "ms-python.python"
+    ],
+    "settings": {
+      "terminal.integrated.shell.linux": "/bin/bash"
+    }
+  }
+  
